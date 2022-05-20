@@ -18,4 +18,7 @@ $ pip install -r requirements.txt
 
 # run !
 $ python3 app.py
+ 
+# open web browser 
+http://127.0.0.1:5000/uptime
 
