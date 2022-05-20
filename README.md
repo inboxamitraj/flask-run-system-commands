@@ -5,7 +5,7 @@ run system commands, shell commands directly from the browser
 
 # clone the repo
 $ git clone git@github.com:inboxamitraj/flask-run-system-commands.git\
-$ cd flask-parse-json
+$ cd flask-run-system-commands
 
 # create virtual environment
 $ python3 -m venv venv
