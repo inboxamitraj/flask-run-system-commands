@@ -22,3 +22,7 @@ $ python3 app.py
 # open web browser 
 http://127.0.0.1:5000/uptime
 
+![uptime](https://github.com/inboxamitraj/flask-run-system-commands/blob/main/uptime.png?raw=true)
+![echo hello](https://github.com/inboxamitraj/flask-run-system-commands/blob/main/echo-hello.png?raw=true)
+
+
